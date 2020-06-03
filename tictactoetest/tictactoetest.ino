@@ -1,7 +1,7 @@
 
 #include<avr/wdt.h>
 
-/****** ONLY CHANGE THIS SETTING *****/
+/fix this****** ONLY CHANGE THIS SETTING *****/
 
 #define RED_PIN     0
 #define GREEN_PIN   1
